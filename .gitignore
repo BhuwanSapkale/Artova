@@ -1,0 +1,16 @@
+# Ignore environment files
+server/.env
+client/.env
+
+# Node modules
+server/node_modules/
+client/node_modules/
+
+# Build folders
+client/dist/
+client/build/
+server/dist/
+
+# Logs
+*.log
+npm-debug.log
