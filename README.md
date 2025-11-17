@@ -29,6 +29,22 @@ ARTOVA is a **full-stack AI image generation platform** powered by the **ClipDro
 | Database    | MongoDB Atlas |
 | Deployment  | GitHub + (Render / Vercel optional) |
 
+
+
+
+ARTOVA/
+├── client/ → React Frontend
+│ ├── src/
+│ └── .env.example
+├── server/ → Node Backend
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── .env.example
+├── README.md
+└── package.json
+
+
 ---
 
 ## 📁 Project Structure
